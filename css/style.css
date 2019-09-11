@@ -1,0 +1,68 @@
+#baner1{
+    
+    height: 100px;
+     margin: 0;
+}
+#main{
+    height:auto;
+    width: auto;
+    margin:auto 100px;
+	 
+}
+#mainn{
+    height:auto;
+    width: auto;
+    margin:auto 100px;
+	 background: lightgreen;
+}
+#baner{
+    background: lightblue;
+    height: 100px;
+     margin: 0;
+}
+#t{
+    background-image: url(../images/Desktop-Wallpaper-HD-9.jpg);
+    height: auto;
+    width: auto;
+    padding: 50px;
+}#t1{
+    background: lightgray;
+    height: auto;
+    width: auto;
+    padding: 50px;
+    
+}
+#futer{
+     background: lightblue;
+      height: 100px;
+    margin:0;
+    padding:10px;
+}
+body{ margin: 0;
+    padding: 0;
+    background-image:url(../images/Desktop-Wallpaper-24.jpg);
+    background-size: (100%100%);
+    background-repeat: no-repeat;
+    font-family: .....;
+    font-size: 16px;
+    font-weight: 300px;
+    
+}
+#baner a{
+    float: right;
+}
+#baner1 a{
+    float: right;
+    color: darkviolet;
+}
+#t2{
+     color:darkkhaki;
+    height: auto;
+    width: auto;
+    padding: 50px;
+}
+#tabl{
+    background-color: blueviolet;
+}
+
+
